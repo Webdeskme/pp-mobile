@@ -1,0 +1,27 @@
+{
+  "name": "piratesport",
+  "version": "1.0.0",
+  "description": "Pirates Port Mobile edition.",
+  "main": "main.js",
+  "scripts": {
+    "test": "cordova run browser -- --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webdeskme/pp-mobile.git"
+  },
+  "keywords": [
+    "Pirates",
+    "Port",
+    "SANS",
+    "Card",
+    "Game",
+    "Game"
+  ],
+  "author": "Adam W. Telford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Webdeskme/pp-mobile/issues"
+  },
+  "homepage": "https://github.com/Webdeskme/pp-mobile#readme"
+}
